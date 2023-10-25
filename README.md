@@ -6,12 +6,12 @@
 - 🌱 I’m currently attending a certified education course at the @DigitalCareerInstitute to dive deep into all necessary knowledge of a professional Software-Engineer.
 - 💞️ I’m looking to collaborate on different projects which will improve my understanding and knowledge of different technologies. If there is a project you want to work on with, just feel free to contact me!
 - 📫 How to reach me at:
-  - linkedIN: [My Profile](https://www.linkedin.com/in/david-sajitz-748b831a4)
+  - linkedIN: [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/david-sajitz-748b831a4)
 
 ### Languages
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-yellow.svg?style=for-the-badge&logo=javascript&logoColor=blue)
+![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 
 ### Version Control
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
