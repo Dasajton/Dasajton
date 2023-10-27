@@ -1,6 +1,6 @@
-# Hi, I'm David Anton Sajitz from Germany, Dortmund.
+![Readme-Header](/readme_header_image.png)
 
-## Welcome to my GitHub Profile!
+# Welcome to my GitHub Profile!
 
 - **🌱 I’m currently attending a certified education course at the @DigitalCareerInstitute to dive deep into all necessary knowledge of a professional Full-Stack Web Developer.**
 
