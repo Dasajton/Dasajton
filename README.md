@@ -1,11 +1,5 @@
 ![Readme-Header](/readme_header_image.png)
 
-# Welcome to my GitHub Profile!
-
-- **🌱 I’m currently attending a certified education course at the @DigitalCareerInstitute to dive deep into all necessary knowledge of a professional Full-Stack Web Developer.**
-
-- **💞️ I’m looking to collaborate on different projects which will improve my understanding and knowledge of different technologies. If there is a project you want to work on with, just feel free to contact me!**
-
 ## Contact Me:
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/david-sajitz-748b831a4)
