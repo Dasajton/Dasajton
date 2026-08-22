@@ -100,6 +100,7 @@ Use compact Shields.io badges with `style=flat-square`. Badges within each group
 
 - TypeScript
 - JavaScript
+- Python
 - React
 - Next.js
 - Vue.js
